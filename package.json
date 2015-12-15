@@ -1,0 +1,19 @@
+{
+  "name": "reactApp",
+  "version": "1.0.0",
+  "description": "React App",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williamliew/reactApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamliew/reactApp/issues"
+  },
+  "homepage": "https://github.com/williamliew/reactApp"
+}
