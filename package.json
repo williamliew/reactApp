@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/williamliew/reactApp/issues"
   },
-  "homepage": "https://github.com/williamliew/reactApp"
+  "homepage": "https://github.com/williamliew/reactApp",
+  "dependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-html": "^0.4.4",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0"
+  }
 }
